@@ -30,9 +30,10 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 
 #### Backend web developemnt
 
-<img align="left" alt="jango Community" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/django-community.svg" />
-<img align="left" alt="Flask Logo" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/flask-seeklogo.svg" />
-<img align="left" alt="Dotnet Core" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/dot-net-core-7.svg" />
+<img align="left" alt="jango Community" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/django-community.svg" />
+<img align="left" alt="Flask Logo" width="42px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/flask-seeklogo.svg" />
+<img align="left" alt="Dotnet Core" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/dot-net-core-7.svg" />
+<br/>
 
 #### Data Science Tools
 
