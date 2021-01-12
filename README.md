@@ -11,6 +11,7 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0337C3)
 <!--
 **CharlesMaponya/CharlesMaponya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
