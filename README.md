@@ -3,7 +3,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/wave.gif" width="40px">
 
 My Name is **Charles Maponya**, A self taught web developer and Aspiring Data scientist. I am from Limpopo, South Africa But Currently Based in Lyttleton Manor, Centurion, Pretoria, South Africa.I am passionate and proactive problem solver who is also a strong analytical thinker
-with a love for programming and collaboration. Currently Undergoing Data science training at Explore Data Science Academy and about to Start my Data science Internship with Old Mutual (Pty) Ltd. You can find me on [![LinkedIn]
+with a love for programming and collaboration. Currently Undergoing Data science training at Explore Data Science Academy and about to Start my Data science Internship with Old Mutual (Pty) Ltd. You can find me on [![LinkedIn](https://www.linkedin.com/in/charles-maponya/)
 
 ## 🔭 Current Projects
 
@@ -12,6 +12,12 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0337C3)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 <!--
 **CharlesMaponya/CharlesMaponya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
