@@ -15,7 +15,7 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/visual-studio.svg" />
 
-<br /><br />
+<br />
 
 #### Front-end Web Development
 
@@ -25,6 +25,8 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jquery-logo.svg" />
+
+<br />
 
 #### Backend web developemnt
 
