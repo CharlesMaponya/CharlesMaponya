@@ -13,28 +13,28 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 
 #### Programming Languages
 
-<img align="left" alt="Python" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/Python_logo.svg" />
-<img align="left" alt="CSharp" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/c-sharp.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/Python_logo.svg" />
+<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/c-sharp.svg" />
 
 <br />
 
 #### IDE'S
-<img align="left" alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/visual-studio.svg" />
-<img align="left" alt="Anaconda" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/cib-anaconda.svg" />
-<img align="left" alt="Jupyter Notebooks" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jupyter-seeklogo.com.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/visual-studio.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/cib-anaconda.svg" />
+<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jupyter-seeklogo.com.svg" />
 
 
 <br />
 
 #### Front-end Web Development
 
-<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JQuery" width="128px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jquery-logo.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="JQuery" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jquery-logo.svg" />
 
 <br />
 
