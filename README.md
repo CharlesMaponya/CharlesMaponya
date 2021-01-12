@@ -24,7 +24,7 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JQuery" width="42px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jquery-logo.svg" />
+<img align="left" alt="JQuery" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/jquery-logo.svg" />
 
 <br />
 
