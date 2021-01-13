@@ -75,7 +75,8 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesMaponya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0037c3&bg_color=04001E" alt="Charles's GitHub Stats" />
 </a>
 <br/><br/>
-  ---
+
+---
  
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
@@ -85,7 +86,6 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 
 I love open source.  I am not a heavy maintainer of any libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into any library.  I 💕 a good onboarding readme with good example.
 
- ---
 
 
 <!--
