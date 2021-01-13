@@ -13,7 +13,7 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 
 #### Programming Languages
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/Python_logo.svg" />
+<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/Python_logo.svg" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/c-sharp.svg" />
 
 <br />
@@ -48,6 +48,13 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 
 #### Data Science Tools
 
+<img align="left" alt="Pandas Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/pandas.png" />
+<img align="left" alt="Numpy Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/Numpy_logo.png" />
+<img align="left" alt="Matplotlib Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/matplotlib.svg" />
+<img align="left" alt="Seaborn Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/seaborn.png" />
+<img align="left" alt="Scipy Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/scipy.png" />
+<img align="left" alt="Scikit-learn Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/sklearn.png" />
+<img align="left" alt="Streamlit Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/streamlit.png" />
 <!--
 **CharlesMaponya/CharlesMaponya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
