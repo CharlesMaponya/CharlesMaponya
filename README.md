@@ -64,6 +64,23 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 <img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/CharlesMaponya/CharlesMaponya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMaponya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CharlesMaponya/CharlesMaponya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesMaponya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Charles's GitHub Stats" />
+</a>
+
+<a href="(https://github.com/CharlesMaponya/MessengerUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=MessengerUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<!--<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 <!--
 **CharlesMaponya/CharlesMaponya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
