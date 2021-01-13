@@ -64,6 +64,7 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 <img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<br /><br/>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CharlesMaponya/CharlesMaponya">
