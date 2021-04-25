@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/CharlesMaponya_Header.png "Header")](https://maponyacharles.dev/)
+[![Header](https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/CharlesMaponya_Header.png "Header")](https://github.com/CharlesMaponya/)
 
 # Hi there <img src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/wave.gif" width="40px">
 
