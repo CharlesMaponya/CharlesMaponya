@@ -3,11 +3,16 @@
 # Hi there <img src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/wave.gif" width="40px">
 
 My Name is **Charles Maponya**, A self taught web developer and Aspiring Data scientist. I am from Limpopo, South Africa But Currently Based in Lyttleton Manor, Centurion, Pretoria, South Africa.I am passionate and proactive problem solver who is also a strong analytical thinker
-with a love for programming and collaboration. Currently Undergoing Data science training at Explore Data Science Academy and about to Start my Data science Internship with Old Mutual (Pty) Ltd. You can find me on [LinkedIn](https://www.linkedin.com/in/charles-maponya/)
+with a love for programming and collaboration. Currently Undergoing Data science training at Explore Data Science Academy and have startes my Data science Internship with Old Mutual (Pty) Ltd. You can find me on [LinkedIn](https://www.linkedin.com/in/charles-maponya/)
 
 ## 🔭 Current Projects
 
-I am Currently working on a [Peer-to-Peer messenger application](https://github.com/CharlesMaponya/MessengerUI) which is written using HTML5, CSS3, JQuery as the frontend technologies and C#, ASP.NET CORE 3.1 as the backend service and MSSQL as the database service. Not yet sure when the project will be fully done.
+I am Currently working on an Automated machine learning and Data analytics platform that I would love to open source someday machine learning enthusiasts and data science beginners that I have named autolearn. This project will help me empower other data science enthusiasts who wish to understand data in a statistical way and see outlier analysis and their data distributions.
+The repository for this will be coming soooooon...
+
+## 🌱 I’m currently learning Alteryx, Tableau
+Work at Old Mutual has been fulfilling and Challenging at the same time which has alllowed for growth. I am ccurrently learning Alteryx which is a data analytics and data wrangling platform which allows the integration of data wrangling in SQL and python and data modelling in the same environment making it easier to have a modelling process/pipeline that is easily reproducible.
+Data visualization has been fun since I have started using Tableau. I am learning more on storytelling and data exploration.
 
 ## 🔧 Technologies & Tools
 
@@ -55,6 +60,7 @@ I am Currently working on a [Peer-to-Peer messenger application](https://github.
 <img align="left" alt="Streamlit Logo" width="96px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/streamlit.png" />
 <img align="left" alt="Matplotlib Logo" width="96px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/matplotlib.svg" />
 <img align="left" alt="Seaborn Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/seaborn.png" />
+<img align="left" alt="Scikit Learn Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/sklearn.png" />
 
 <br/><br/>
 
