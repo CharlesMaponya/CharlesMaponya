@@ -60,7 +60,6 @@ Data visualization has been fun since I have started using Tableau. I am learnin
 <img align="left" alt="Streamlit Logo" width="96px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/streamlit.png" />
 <img align="left" alt="Matplotlib Logo" width="96px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/matplotlib.svg" />
 <img align="left" alt="Seaborn Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/seaborn.png" />
-<img align="left" alt="Scikit Learn Logo" width="64px" src="https://raw.githubusercontent.com/CharlesMaponya/CharlesMaponya/master/sklearn.png" />
 
 <br/><br/>
 
